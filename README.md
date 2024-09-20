@@ -6,7 +6,7 @@ Hi! I'm **Jose Moreno**, a passionate IT/Cybersecurity enthusiast. This GitHub p
 ## 🚀 Cybersecurity Projects
 
 ### [Capturing Traffic with ARP Spoofing]
-[This project demonstrates how someone could intercept and view other users' unencrypted web traffic using a technique called ARP spoofing, which exploits a vulnerability in the design of the address resolution protocol (ARP)].  
+This project demonstrates how someone could intercept and view other users' unencrypted web traffic using a technique called ARP spoofing, which exploits a vulnerability in the design of the address resolution protocol (ARP).  
 **Key Technologies:** [Kali Linux, dnsiff, netdiscover, arpspoof, urlsnarf]  
 [Link to the project repository](https://github.com/username/project1)
 
