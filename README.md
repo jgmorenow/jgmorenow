@@ -24,10 +24,10 @@ This project demonstrates how someone could intercept and view other users' unen
 
 ## 📊 Skills
 
-- **Programming Languages:** [Python, PowerShell, Bash]
+- **Programming Languages:** [Python, JavaScript, Bash]
 - **Cloud Technologies:** [AWS, Azure, Google Cloud]
 - **Security Tools:** [Splunk, Firewalls, Security Information and Event Management (SIEM), Tenable Nessus]
-- **Others:** [Git, Docker, Kubernetes]
+- **Virtual Machines:** [Ubuntu, Kali Linux, Parrot OS, Metaspoitable, Flare, REMnux]
 
 ---
 
