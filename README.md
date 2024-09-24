@@ -13,9 +13,8 @@ In this project I will demonstrate how to create a python script to backup files
 In this project, I will demonstrate how to delete temporary files, recycle bin data, and run a disc cleanup program in Windows. 
 [Link to the project repository](https://github.com/jgmorenow/DiskCleanup/blob/main/README.md)
 
-### Building and Installing Linux Rootkits
-[Description of the project and its purpose].  
-**Key Technologies:** [List technologies/tools]  
+### Filtering Network Traffic with Firewalls
+In this project, I will use two firewall solutions: iptables and pfSense to montior and filter network traffic. 
 [Link to the project repository](https://github.com/username/project3)
 
 ---
