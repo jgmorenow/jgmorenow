@@ -11,7 +11,7 @@ In this project I will demonstrate how to create a python script to backup files
 
 ### Disk Cleanup with Powershell Script
 In this project, I will demonstrate how to delete temporary files, recycle bin data, and run a disc cleanup program in Windows. 
-[Link to the project repository](https://github.com/username/project2)
+[Link to the project repository](https://github.com/jgmorenow/DiskCleanup/blob/main/README.md)
 
 ### Building and Installing Linux Rootkits
 [Description of the project and its purpose].  
