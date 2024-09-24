@@ -5,9 +5,9 @@ Hi! I'm **Jose Moreno**, a passionate IT/Cybersecurity enthusiast. This GitHub p
 
 ## 🚀 IT Projects
 
-### Disk Cleanup Using Powershell Scripts 
-In this project, I will demonstrate how to delete temporary files, recycle bin data, and run a disc cleanup program in Windows.   
-[Link to the project repository](https://github.com/username/project1)
+### Automate Backup with Python Script
+In this project I will demonstrate how to create a python script to backup files.   
+[Link to the project repository](https://github.com/jgmorenow/Automate-Backups/blob/main/README.md)
 
 ### Building Trojans
 [Description of the project and its purpose].  
