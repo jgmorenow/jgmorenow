@@ -17,6 +17,10 @@ In this project, I will demonstrate how to delete temporary files, recycle bin d
 In this project, I will use two firewall solutions: iptables and pfSense to montior and filter network traffic. 
 [Take a look](https://github.com/jgmorenow/Firewalls)
 
+### Filtering Network Traffic with Firewalls
+In this project, I will discuss some of the pitfalls associated with wider wireless networks.
+[Click here](https://github.com/jgmorenow/WirelessNetworks)
+
 ---
 
 ## 📊 Skills
