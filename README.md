@@ -6,8 +6,7 @@ Hi! I'm **Jose Moreno**, a passionate IT/Cybersecurity enthusiast. This GitHub p
 ## 🚀 IT Projects
 
 ### Automate Backup with Python Script
-In this project I will demonstrate how to create a python script to backup files.   
-[Check it out](https://github.com/jgmorenow/Automate-Backups/blob/main/README.md)
+In this project I will demonstrate how to create a python script to backup files. [Check it out](https://github.com/jgmorenow/Automate-Backups/blob/main/README.md)
 
 ### Disk Cleanup with Powershell Script
 In this project, I will demonstrate how to delete temporary files, recycle bin data, and run a disc cleanup program in Windows. 
