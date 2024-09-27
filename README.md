@@ -29,10 +29,10 @@ In this project, I will provision an EC2 instance with Terraform
 
 ## 📊 Skills
 
-- **Programming Languages:** [Python, JavaScript, Bash]
+- **Programming Languages:** [Python, PowerShell, Bash]
 - **Cloud Technologies:** [AWS, Azure, Google Cloud]
 - **Security Tools:** [Splunk, Firewalls, Security Information and Event Management (SIEM), Tenable Nessus]
-- **Virtual Machines:** [Ubuntu, Kali Linux, Parrot OS, Metaspoitable, Flare, REMnux]
+- **Virtual Machines:** [Windows, macOS, Ubuntu, Kali, Parrot OS, Metaspoitable, Flare, REMnux]
 
 ---
 
