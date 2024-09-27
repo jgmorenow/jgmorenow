@@ -1,6 +1,6 @@
-# Welcome to My Portfolio
+# My Portfolio
 
-Hi! I'm **Jose Moreno**, a passionate IT/Cybersecurity enthusiast. This GitHub page serves as my professional e-portfolio, showcasing some of the projects and work I’ve been involved in.
+Hi! I'm **Jose Moreno**, a passionate IT/Cybersecurity professional. This GitHub page serves as my professional e-portfolio, showcasing some of the projects and work I’ve been involved in.
 
 
 ## 🚀 IT Projects
