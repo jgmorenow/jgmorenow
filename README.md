@@ -22,7 +22,7 @@ In this project, I will discuss some of the pitfalls associated with wider wirel
 
 ### Provision AWS EC2 Instance with Terraform
 In this project, I will provision an EC2 instance with Terraform
-[Here](https://github.com/jgmorenow/AWS-EC2)
+[Tap In](https://github.com/jgmorenow/AWS-EC2)
 
 
 ---
